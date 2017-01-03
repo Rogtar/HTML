@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: Moccasin;}
+</style>
+<title>Kontakt</title>
+</head>
+<body>
+<h1>Kontakt</h1>
+<center><b><pre>Imie: Martin
+Nazwisko: Rozenkiewicz
+Adres e-mail: etrom@vp.pl
+Nr indeksu: 246752</pre></b></center>
+</body>
+</html>
